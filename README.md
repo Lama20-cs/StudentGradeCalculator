@@ -1,6 +1,6 @@
 # Student Grade Calculator
 
-A university group project written in **MIPS Assembly**. The program takes a student's grades in three subjects, calculates the total and the average, and determines the final letter grade.
+A university solo project written in **MIPS Assembly**. The program takes a student's grades in three subjects, calculates the total and the average, and determines the final letter grade.
 
 ## Features
 
@@ -22,10 +22,3 @@ A university group project written in **MIPS Assembly**. The program takes a stu
 - MIPS Assembly
 - System calls (syscalls) for input and output
 - Branching and arithmetic instructions
-
-## My Contribution
-
-This was a group project. I was responsible for:
-
-- Writing the **prompt messages** shown to the user
-- **Reading the three grades** from the user using syscalls
